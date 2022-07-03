@@ -47,7 +47,7 @@ export YC_FOLDER_ID="id вашего каталога"
 
 main.tf
 
-```json
+```
 terraform {
   required_providers {
     yandex = {
